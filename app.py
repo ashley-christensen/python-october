@@ -7,3 +7,4 @@ if type_input.lower() == 'l':
 if type_input.lower() == 'k':
   kilos = str(float(weight) * 2.2)
   print("Weight in lbs: " + kilos)
+
